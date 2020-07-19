@@ -1,0 +1,9 @@
+#table-NN tr {
+    padding: 0.5rem 0 0.5rem 0;
+}   
+
+#table-NN tr td {
+    padding: 0 0.2rem 0 0.2rem;
+    height: 30px;
+    width: 30px;
+}
